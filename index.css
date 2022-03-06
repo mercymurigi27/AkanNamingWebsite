@@ -27,13 +27,13 @@ p{
 }
 
 input[type=submit]{
-    height: 50px;
-    width: 70px;
+    padding: 15px;
     background-color: rgb(61, 194, 21);
+
 }
 input[type=date] {
     width: 400pt;
-    padding: 12px 20px;
+    padding: 10px 20px;
     margin: 8px 0;
     box-sizing: border-box;
   }
@@ -48,7 +48,7 @@ form label{
 #gender{
     font-family: cursive;
     font-size: 20pt;
-    padding: 21px 12px;
+    padding: 10px 12px;
     
 }
 #khanname{
