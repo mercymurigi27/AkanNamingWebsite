@@ -1,0 +1,47 @@
+body{
+background-image: url(images/jackson-david-NxNTt4FMOWY-unsplash\ \(1\).jpg);
+background-size: cover;
+background-blend-mode:darken;
+    
+}
+.welcome{
+    margin: 20pt;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    
+}
+.welcome1{
+ color: yellowgreen;
+ font-family: cursive;
+ background-image: linear-gradient(to bottom,rgba(10, 10, 10, 0.9),rgba(76, 80, 69, 0.5));
+ padding-top: 50pt;
+ margin: 30pt;
+ 
+}
+:hover{
+    color:mintcream
+}
+p{
+    font-size: 15pt;
+}
+
+input[type=submit]{
+    height: 50px;
+    width: 70px;
+    background-color: rgb(61, 194, 21);
+}
+input[type=date] {
+    width: 400pt;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+  }
+
+#birthday{
+    font-size: 24pt;
+}
+form label{
+    font-size: 20pt;
+    font-family: cursive;
+}
