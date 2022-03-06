@@ -12,9 +12,9 @@
 * Clone the repo to your local computer.
 * Fork the repo to appear in your list of repositories.
 ## Requirements
-+ Either a computer (for viewing, cloning or forking), phone,tablet or an Ipad for testingg.
+  + Either a computer (for viewing, cloning or forking), phone,tablet or an Ipad for testingg.
 
-+ An access to the Internet.
+  + An access to the Internet.
 
 ## Installation Process
   + Go Back to the top
