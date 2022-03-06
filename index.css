@@ -45,3 +45,9 @@ form label{
     font-size: 20pt;
     font-family: cursive;
 }
+#gender{
+    font-family: cursive;
+    font-size: 20pt;
+    padding: 21px 12px;
+    
+}

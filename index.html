@@ -18,13 +18,20 @@
         </div>  
 
         <div class="im">
-            <form action="input birthday">
+            <form name="myform">
                 <label for="birthday"><B>Birthday:</B></label>
                 <input type="date" id="birthday" name="birthday" >
-                <input type="submit" value="Submit" >
+                <label for="gender">Gender</label>
+                <select name="gender" id="gender">
+                    <option value="female">Female</option>
+                    <option value="male">Male</option>
+                </select>
+                <input type="submit" id="submitbtn" value="Submit" >
               </form>
         </div>
+        <div id="khanname"></div>
     </div> 
    
 </body>
+<script src="main.js"></script>
 </html>
