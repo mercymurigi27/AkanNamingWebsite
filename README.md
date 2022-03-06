@@ -1,31 +1,33 @@
 # Akhan Naming Website
 ### By Mercy Murigi
-# Table of Content
+## Table of Content
  + Description
  + Installation Requirement
  + Technology Used
  + Licence
-# Description
+## Description
 + A website that calculates the day of the week a person was born by calculating their birthday and assigns akhan name for that day in regards to Ghananian traditions.
 
-# Installation
+## Installation
 * Clone the repo to your local computer.
 * Fork the repo to appear in your list of repositories.
-# Requirements
+## Requirements
 + Either a computer (for viewing, cloning or forking), phone,tablet or an Ipad for testingg.
 
 + An access to the Internet.
 
-# Installation Process
+## Installation Process
   + Go Back to the top
 
-# Technology Used
+## Technology Used
 * HTML5 - Used to build the structure of the pages.
 
 * CSS3 - Used to styling the pages.
 
 * JS - Used for scripting and manipulate the DOM elements
-
+## Author Information
+   For support and enquiries contact me via
+   [Mercy Murigi](https://app.slack.com/client/T0101L740P4/C02TTF7MR8D/user_profile/U02TWDE402E)
 
 
 ## Licence
