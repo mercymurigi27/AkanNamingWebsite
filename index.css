@@ -51,4 +51,11 @@ form label{
     padding: 21px 12px;
     
 }
-.khaname
+#khanname{
+    font-size: 40pt;
+    font-family: cursive;
+    font-weight: bolder; 
+    background-color: rgba(0, 0, 0, 0.5);
+    color: beige;
+ 
+}
